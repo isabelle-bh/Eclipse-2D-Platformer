@@ -1,5 +1,4 @@
-Here is my completed App 2 Combat-Based 2D Platformer Adventure!
-It is called Eclipse. The goal is to reach the goal spot as fast as you can while beating enemies along the way.
+This is my 2D adventure platformer, Eclipse! The goal is to reach the end of the level as fast as you can, defeating enemies along the way.
 
 Here are some of the features:
 - Controls:
