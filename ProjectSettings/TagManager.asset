@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - WinTrigger
+  - HealthRegenTrigger
+  - UI
+  - Spike
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - Player
+  - Background
+  - GameUI
+  - Hazard
+  - EnemyMesh
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 591293761
+    locked: 0
+  - name: Ground
+    uniqueID: 1717409989
+    locked: 0
+  - name: Enemy
+    uniqueID: 442520577
+    locked: 0
+  - name: Player
+    uniqueID: 4069044381
+    locked: 0
+  - name: GameUI
+    uniqueID: 2742743347
+    locked: 0
